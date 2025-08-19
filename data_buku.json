@@ -1,0 +1,24 @@
+[
+    {
+        "kode": "001",
+        "judul": "Petualangan si kancil",
+        "kategori": "Fiksi",
+        "penerbit": "Mizan",
+        "harga": "20.000"
+    },
+    {
+        "kode": "002",
+        "judul": "Resep Masakan  Nusantara",
+        "kategori": "Kuliner",
+        "penerbit": "Andi Publisher",
+        "harga": "72.000"
+    },
+    {
+        "kode": "003",
+        "judul": "Doa Harian Anak  Muslim",
+        "kategori": "Religi Anak",
+        "penerbit": "Mizan",
+        "harga": "55.000"
+    }
+    
+]
